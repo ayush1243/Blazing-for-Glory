@@ -1,1 +1,2 @@
-# Blazing-for-Glory
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
